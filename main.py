@@ -1,8 +1,3 @@
-"""
-Chatbot องค์กร: ถามตอบทั่วไป + อ่านใบเสร็จเพื่อบันทึกรายจ่าย
-FastAPI + OpenRouter — ดูรายละเอียดสถาปัตยกรรมใน plan.md (โฟลเดอร์แม่ของ app/)
-"""
-
 import base64
 import csv
 import json
